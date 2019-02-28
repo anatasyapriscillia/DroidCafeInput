@@ -1995,7 +1995,7 @@
         <item>Work</item>
         <item>Mobile</item>
         <item>Other</item>
-    </string-array><string name="action_status_message">You selected Status</string><string name="action_contact_message">You selected Contact</string><string name="action_order">Order</string><string name="action_status">Status</string><string name="action_order_message">You selected Order</string><string name="action_favorites_message">You selected Favorites</string><string name="action_favorites">Favorites</string><string name="action_contact">Contact</string></file><file path="D:\Semester 6\Praktikum Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </string-array><string name="action_status_message">You selected Status</string><string name="action_contact_message">You selected Contact</string><string name="action_order">Order</string><string name="action_status">Status</string><string name="action_order_message">You selected Order</string><string name="action_favorites_message">You selected Favorites</string><string name="action_favorites">Favorites</string><string name="action_contact">Contact</string><string name="share">share</string><string name="edit">edit</string><string name="delete">delete</string></file><file path="D:\Semester 6\Praktikum Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
